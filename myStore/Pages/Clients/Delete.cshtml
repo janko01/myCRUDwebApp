@@ -1,0 +1,29 @@
+﻿@page
+@using System.Data.SqlClient;
+@{
+    // za delete stranicu mi treba samo Razor view
+
+    try
+    {
+        String id = Request.Query["id"];
+
+        String connectionString = "Data Source=DELL\\SQLEXPRESS;Initial Catalog=myStore;Integrated Security=True";
+        using (SqlConnection connection = new SqlConnection(connectionString))
+        {
+            connection.Open();
+
+            String sql = "delete from clients where id=@id";
+            using (SqlCommand command = new SqlCommand(sql,connection))
+            {
+                command.Parameters.AddWithValue("@id", id);
+
+                command.ExecuteNonQuery();
+            }
+        }
+    }
+    catch(Exception ex)
+    {
+
+    }
+    Response.Redirect("/Clients/Index");
+}

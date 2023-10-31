@@ -1,0 +1,76 @@
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\bin\Debug\net6.0\appsettings.json
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\bin\Debug\net6.0\myStore.staticwebassets.runtime.json
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\bin\Debug\net6.0\myStore.exe
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\bin\Debug\net6.0\myStore.deps.json
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\bin\Debug\net6.0\myStore.runtimeconfig.json
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\bin\Debug\net6.0\myStore.dll
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\bin\Debug\net6.0\myStore.pdb
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\myStore.csproj.AssemblyReference.cache
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\myStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\myStore.AssemblyInfoInputs.cache
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\myStore.AssemblyInfo.cs
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\myStore.csproj.CoreCompileInputs.cache
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\myStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\myStore.RazorAssemblyInfo.cache
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\myStore.RazorAssemblyInfo.cs
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\staticwebassets\msbuild.myStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\staticwebassets\msbuild.build.myStore.props
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.myStore.props
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.myStore.props
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\scopedcss\bundle\myStore.styles.css
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\scopedcss\projectbundle\myStore.bundle.scp.css
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\myStore.csproj.CopyComplete
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\myStore.dll
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\refint\myStore.dll
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\myStore.pdb
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\myStore.genruntimeconfig.cache
+C:\Users\Dell 5530\Vizuleno Programiranje vezbe\myStore\myStore\obj\Debug\net6.0\ref\myStore.dll
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\bin\Debug\net6.0\appsettings.json
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\bin\Debug\net6.0\myStore.staticwebassets.runtime.json
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\bin\Debug\net6.0\myStore.exe
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\bin\Debug\net6.0\myStore.deps.json
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\bin\Debug\net6.0\myStore.runtimeconfig.json
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\bin\Debug\net6.0\myStore.dll
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\bin\Debug\net6.0\myStore.pdb
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\myStore.csproj.AssemblyReference.cache
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\myStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\myStore.AssemblyInfoInputs.cache
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\myStore.AssemblyInfo.cs
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\myStore.csproj.CoreCompileInputs.cache
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\myStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\myStore.RazorAssemblyInfo.cache
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\myStore.RazorAssemblyInfo.cs
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\staticwebassets\msbuild.myStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\staticwebassets\msbuild.build.myStore.props
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.myStore.props
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.myStore.props
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\scopedcss\bundle\myStore.styles.css
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\scopedcss\projectbundle\myStore.bundle.scp.css
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\myStore.csproj.CopyComplete
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\myStore.dll
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\refint\myStore.dll
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\myStore.pdb
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\myStore.genruntimeconfig.cache
+C:\Users\Dell 5530\CSprojekti\myStore\myStore\obj\Debug\net6.0\ref\myStore.dll
